@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.72.0"
   },
+  "publisher": "ahmedawaad1804",
   "categories": [
     "Other"
   ],
